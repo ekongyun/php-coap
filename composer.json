@@ -1,4 +1,9 @@
 {
+	"name": "ekongyun/PhpCoap",
+	"type": "library",
+	"description": "coap framework",
+	"license": "Apache-2.0",
+	"version": "1.0.0",
     "require": {
         "react/react": "0.4.*"
     },
